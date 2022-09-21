@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Антон Минаев](https://up.htmlacademy.ru/htmlcss/35/user/227696).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
